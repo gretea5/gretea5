@@ -3,7 +3,7 @@
   <br>
   <br>
     <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=gretea5"/>
-    <img src="https://github-readme-stats.vercel.app/api?username=gretea5&theme=tokyonight&show_icons=true" width="42%" />
+    <img src="https://github-readme-stats.vercel.app/api?username=gretea5&theme=tokyonight&show_icons=true" width="50%" />
   <br>
   <br>
   <img src = "https://github-readme-activity-graph.vercel.app/graph?username=gretea5&theme=github-compact"/>
