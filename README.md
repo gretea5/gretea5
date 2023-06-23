@@ -1,6 +1,12 @@
 <div align="center">
-  
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=280&section=header&text=JangHoon%20Park&fontSize=80&fontColor=ffffff&animation=twinkling" />
+  <br>
+  <br>
+    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=gretea5"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=gretea5&theme=tokyonight&show_icons=true" width="42%" />
+  <br>
+  <br>
+  <img src = "https://github-readme-activity-graph.vercel.app/graph?username=gretea5&theme=github-compact"/>
   <br>
   <br>
   <h2>:raised_hands: Introduction :raised_hands:</h2>
@@ -34,5 +40,6 @@
     <a href="https://www.instagram.com/pjhoon0223/">
         <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"> 
     </a>
-</div><br>
+  </div>
+  
 </div>
