@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=280&section=header&text=JangHoon%20Park&fontSize=80&fontColor=ffffff&animation=twinkling" />
   <br>
   <br>
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7FFF00&center=true&vCenter=true&width=435&lines=Front-End+Developer." alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7aa2f7&center=true&vCenter=true&width=435&lines=Front-End+Developer." alt="Typing SVG" /></a>
   <br>
   <br>
     <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=gretea5"/>
