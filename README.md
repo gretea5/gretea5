@@ -9,7 +9,7 @@
     <img src="https://github-readme-stats.vercel.app/api?username=gretea5&theme=tokyonight&show_icons=true" width="45%" />
   <br>
   <br>
-  <img src = "https://github-readme-activity-graph.vercel.app/graph?username=gretea5&theme=github-compact"/>
+  <img src = "https://github-readme-activity-graph.vercel.app/graph?username=gretea5&theme=tokyo-night"/>
   <br>
   <br>
   <h2>:raised_hands: Introduction :raised_hands:</h2>
