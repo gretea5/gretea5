@@ -5,7 +5,7 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7aa2f7&center=true&vCenter=true&width=435&lines=Front-End+Developer." alt="Typing SVG" /></a>
   <br>
   <br>
-    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=gretea5"/>
+    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=gretea5" width="45%" />
     <img src="https://github-readme-stats.vercel.app/api?username=gretea5&theme=tokyonight&show_icons=true" width="45%" />
   <br>
   <br>
