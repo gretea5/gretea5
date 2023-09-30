@@ -1,7 +1,6 @@
 <h2> Hi there 👋</h2> 
 <div> 안녕하세요! 모바일앱 개발자 박장훈입니다 📱 </div>
 <br>
-<br>
 <div>
   <img src="https://github-readme-stats.vercel.app/api?username=gretea5&theme=tokyonight&show_icons=true"/>
   <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=gretea5" />
