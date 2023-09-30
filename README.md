@@ -6,7 +6,7 @@
   <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=gretea5" />
 </div>
 <br>
-<h2> Contact 📞</h2>
+<h2> Contact 📮</h2>
 <div style="display:flex; flex-direction:row;">
   <a href="mailto:gretea4489@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"> 
