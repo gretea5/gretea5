@@ -6,6 +6,11 @@
   <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=gretea5" />
 </div>
 <br>
+<h2> Studying 📖</h2>
+<div>
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
+</div>
+<br>
 <h2> Contact 📮</h2>
 <div style="display:flex; flex-direction:row;">
   <a href="mailto:gretea4489@gmail.com">
