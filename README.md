@@ -19,7 +19,7 @@
   <a href="https://gretea5.tistory.com/">
     <img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white"> 
   </a>
-  <a href="https://www.instagram.com/pjhoon0223/">
+  <a href="https://www.instagram.com/gretea5/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"> 
   </a>
 </div>
