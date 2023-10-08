@@ -11,6 +11,12 @@
   <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
 </div>
 <br>
+<h2> Knowledgeable 💡</h2>
+<div>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
+</div>
+<br>
 <h2> Contact 📮</h2>
 <div style="display:flex; flex-direction:row;">
   <a href="mailto:gretea4489@gmail.com">
