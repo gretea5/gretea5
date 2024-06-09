@@ -1,7 +1,7 @@
 <h2> Hi there 👋</h2> 
 <br>
 <div>
-  <img src="https://github-readme-stats.vercel.app/api?username=gretea5&show_icons=true&bg_color=3CB371&title_color=fff&text_color=fff&icon_color=fff&hide_border=false"/>
+  <img src="http://mazandi.herokuapp.com/api?handle=gretea5&theme=warm"/>
   <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=gretea5" />
 </div>
 <br>
